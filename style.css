@@ -8,4 +8,17 @@
 }
 .pad{
     padding:2px;
+    
+}
+
+.radius{
+    border-radius: 50px 0px 0px 50px;
+}
+
+.radius2{
+    border-radius: 50px 50px 50px 50px;
+}
+
+.radius3{
+    border-radius: 50px 50px 50px 50px;
 }
